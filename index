@@ -1535,10 +1535,10 @@
 
     const firebaseConfig = {
       apiKey: "AIzaSyC0qqhZFF_aefqG3_DgkPsv1y42eIdlJws",
-      authDomain: "adm-guru-nerin.firebaseapp.com",
-      projectId: "adm-guru-nerin",
-      storageBucket: "adm-guru-nerin.firebasestorage.app",
-      messagingSenderId: "29156985809",
+	  authDomain: "adm-guru-nerin.firebaseapp.com",
+	  projectId: "adm-guru-nerin",
+	  storageBucket: "adm-guru-nerin.firebasestorage.app",
+	  messagingSenderId: "29156985809",
       appId: "1:29156985809:web:2fdb07c24f017397c8aef0"
     };
 
